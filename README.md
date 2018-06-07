@@ -1,4 +1,5 @@
 # README
+#fixed conflict route.rb and update README.md to check merge
 
 
 ```
